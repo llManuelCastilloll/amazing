@@ -1,0 +1,29 @@
+body {
+    color: teal;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.cabecera{
+    background: #33A;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, .75);
+    margin: 0;
+    padding: 0.5em;
+}
+
+.cabecera .tagline{
+    padding: 0 0 0 1rem;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+.container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #d0d;
+    margin: 0 auto;
+}
